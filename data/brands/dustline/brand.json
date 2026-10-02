@@ -1,0 +1,32 @@
+{
+  "name": "Dustline",
+  "slug": "dustline",
+  "city": "Berlin",
+  "country": "Germany",
+  "categories": [
+    "Streetwear",
+    "Footwear"
+  ],
+  "styles": [
+    "Technical",
+    "Experimental"
+  ],
+  "priceRange": 3,
+  "brandType": "Collective",
+  "foundedYear": 2021,
+  "featured": false,
+  "views": 16,
+  "createdAt": "2021-09-01",
+  "shortDescription": "Berlin collective building tough footwear and layered shells.",
+  "description": "Berlin collective building tough footwear and layered shells. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@dustline",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

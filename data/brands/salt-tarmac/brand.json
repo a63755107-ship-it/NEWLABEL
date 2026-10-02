@@ -1,0 +1,32 @@
+{
+  "name": "Salt & Tarmac",
+  "slug": "salt-tarmac",
+  "city": "London",
+  "country": "UK",
+  "categories": [
+    "Streetwear",
+    "Menswear"
+  ],
+  "styles": [
+    "Streetwear",
+    "Y2K"
+  ],
+  "priceRange": 2,
+  "brandType": "Collective",
+  "foundedYear": 2023,
+  "featured": true,
+  "views": 62,
+  "createdAt": "2023-05-01",
+  "shortDescription": "A London collective making loud graphics on quiet shapes.",
+  "description": "A London collective making loud graphics on quiet shapes. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@salttarmac",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

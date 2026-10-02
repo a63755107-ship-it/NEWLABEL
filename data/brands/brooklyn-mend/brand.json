@@ -1,0 +1,32 @@
+{
+  "name": "Brooklyn Mend",
+  "slug": "brooklyn-mend",
+  "city": "New York",
+  "country": "USA",
+  "categories": [
+    "Menswear",
+    "Denim"
+  ],
+  "styles": [
+    "Workwear",
+    "Vintage"
+  ],
+  "priceRange": 2,
+  "brandType": "Independent",
+  "foundedYear": 2020,
+  "featured": false,
+  "views": 30,
+  "createdAt": "2020-12-01",
+  "shortDescription": "Repaired, reworked and made to be repaired again.",
+  "description": "Repaired, reworked and made to be repaired again. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@brooklynmend",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

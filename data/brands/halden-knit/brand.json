@@ -1,0 +1,32 @@
+{
+  "name": "Halden Knit",
+  "slug": "halden-knit",
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "categories": [
+    "Knitwear",
+    "Unisex"
+  ],
+  "styles": [
+    "Minimal",
+    "Sustainable"
+  ],
+  "priceRange": 3,
+  "brandType": "Independent",
+  "foundedYear": 2022,
+  "featured": false,
+  "views": 25,
+  "createdAt": "2022-04-01",
+  "shortDescription": "Slow knitwear spun from recycled Nordic wool.",
+  "description": "Slow knitwear spun from recycled Nordic wool. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@haldenknit",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

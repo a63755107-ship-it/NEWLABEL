@@ -1,0 +1,32 @@
+{
+  "name": "Cut Sheet",
+  "slug": "cut-sheet",
+  "city": "Valencia",
+  "country": "Spain",
+  "categories": [
+    "Streetwear",
+    "Unisex"
+  ],
+  "styles": [
+    "Y2K",
+    "Streetwear"
+  ],
+  "priceRange": 1,
+  "brandType": "Collective",
+  "foundedYear": 2025,
+  "featured": false,
+  "views": 81,
+  "createdAt": "2025-04-01",
+  "shortDescription": "Photocopied graphics and oversized cuts from Valencia.",
+  "description": "Photocopied graphics and oversized cuts from Valencia. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@cutsheet",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

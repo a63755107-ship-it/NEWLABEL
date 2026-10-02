@@ -1,0 +1,32 @@
+{
+  "name": "Mare Sul",
+  "slug": "mare-sul",
+  "city": "Porto",
+  "country": "Portugal",
+  "categories": [
+    "Womenswear",
+    "Jewellery"
+  ],
+  "styles": [
+    "Sustainable",
+    "Minimal"
+  ],
+  "priceRange": 2,
+  "brandType": "Emerging",
+  "foundedYear": 2024,
+  "featured": false,
+  "views": 39,
+  "createdAt": "2024-07-01",
+  "shortDescription": "Coastal basics and cast jewellery from Porto workshops.",
+  "description": "Coastal basics and cast jewellery from Porto workshops. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@maresul",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

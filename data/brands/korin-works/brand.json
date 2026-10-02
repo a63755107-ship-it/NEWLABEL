@@ -1,0 +1,32 @@
+{
+  "name": "Korin Works",
+  "slug": "korin-works",
+  "city": "Tokyo",
+  "country": "Japan",
+  "categories": [
+    "Menswear",
+    "Workwear"
+  ],
+  "styles": [
+    "Workwear",
+    "Technical"
+  ],
+  "priceRange": 3,
+  "brandType": "Studio",
+  "foundedYear": 2019,
+  "featured": true,
+  "views": 85,
+  "createdAt": "2019-03-01",
+  "shortDescription": "Japanese workwear reworked in waxed cotton and indigo canvas.",
+  "description": "Japanese workwear reworked in waxed cotton and indigo canvas. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@korinworks",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

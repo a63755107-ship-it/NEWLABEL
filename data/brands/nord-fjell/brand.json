@@ -1,0 +1,32 @@
+{
+  "name": "Nord & Fjell",
+  "slug": "nord-fjell",
+  "city": "Stockholm",
+  "country": "Sweden",
+  "categories": [
+    "Outerwear",
+    "Unisex"
+  ],
+  "styles": [
+    "Technical",
+    "Sustainable"
+  ],
+  "priceRange": 4,
+  "brandType": "Independent",
+  "foundedYear": 2021,
+  "featured": false,
+  "views": 44,
+  "createdAt": "2021-03-01",
+  "shortDescription": "Scandinavian shells built for cold cities and long winters.",
+  "description": "Scandinavian shells built for cold cities and long winters. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@nordfjell",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

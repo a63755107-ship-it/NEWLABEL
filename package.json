@@ -1,0 +1,11 @@
+{
+  "name": "newlabel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate-brands": "node scripts/generate-brands-index.js",
+    "prestart": "npm run generate-brands",
+    "start": "npx serve ."
+  }
+}

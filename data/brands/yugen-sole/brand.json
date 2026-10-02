@@ -1,0 +1,32 @@
+{
+  "name": "Yugen Sole",
+  "slug": "yugen-sole",
+  "city": "Osaka",
+  "country": "Japan",
+  "categories": [
+    "Footwear",
+    "Unisex"
+  ],
+  "styles": [
+    "Minimal",
+    "Experimental"
+  ],
+  "priceRange": 3,
+  "brandType": "Studio",
+  "foundedYear": 2022,
+  "featured": true,
+  "views": 7,
+  "createdAt": "2022-02-01",
+  "shortDescription": "Japanese footwear studio shaping lasts from single sheets of leather.",
+  "description": "Japanese footwear studio shaping lasts from single sheets of leather. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@yugensole",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

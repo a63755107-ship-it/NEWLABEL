@@ -1,0 +1,32 @@
+{
+  "name": "Lumen Tailors",
+  "slug": "lumen-tailors",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "categories": [
+    "Tailoring",
+    "Menswear"
+  ],
+  "styles": [
+    "Luxury",
+    "Minimal"
+  ],
+  "priceRange": 4,
+  "brandType": "Designer",
+  "foundedYear": 2018,
+  "featured": false,
+  "views": 67,
+  "createdAt": "2018-01-01",
+  "shortDescription": "Quiet made-to-measure tailoring from a Lisbon atelier.",
+  "description": "Quiet made-to-measure tailoring from a Lisbon atelier. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@lumentailors",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

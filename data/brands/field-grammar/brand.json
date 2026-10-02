@@ -1,0 +1,32 @@
+{
+  "name": "Field Grammar",
+  "slug": "field-grammar",
+  "city": "Melbourne",
+  "country": "Australia",
+  "categories": [
+    "Sportswear",
+    "Unisex"
+  ],
+  "styles": [
+    "Technical",
+    "Sustainable"
+  ],
+  "priceRange": 2,
+  "brandType": "Emerging",
+  "foundedYear": 2023,
+  "featured": false,
+  "views": 53,
+  "createdAt": "2023-10-01",
+  "shortDescription": "Performance clothing in plant-based fibres for everyday movement.",
+  "description": "Performance clothing in plant-based fibres for everyday movement. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@fieldgrammar",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

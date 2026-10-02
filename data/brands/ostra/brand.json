@@ -1,0 +1,32 @@
+{
+  "name": "Ostra",
+  "slug": "ostra",
+  "city": "Barcelona",
+  "country": "Spain",
+  "categories": [
+    "Jewellery",
+    "Accessories"
+  ],
+  "styles": [
+    "Avant-Garde",
+    "Experimental"
+  ],
+  "priceRange": 3,
+  "brandType": "Independent",
+  "foundedYear": 2023,
+  "featured": false,
+  "views": 90,
+  "createdAt": "2023-11-01",
+  "shortDescription": "Sculptural objects worn on the body, cast in recycled silver.",
+  "description": "Sculptural objects worn on the body, cast in recycled silver. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@ostra",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}

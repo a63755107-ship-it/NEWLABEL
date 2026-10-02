@@ -1,0 +1,32 @@
+{
+  "name": "Holloway & Cole",
+  "slug": "holloway-cole",
+  "city": "Manchester",
+  "country": "UK",
+  "categories": [
+    "Menswear",
+    "Tailoring"
+  ],
+  "styles": [
+    "Workwear",
+    "Luxury"
+  ],
+  "priceRange": 3,
+  "brandType": "Designer",
+  "foundedYear": 2017,
+  "featured": false,
+  "views": 35,
+  "createdAt": "2017-08-01",
+  "shortDescription": "Northern tailoring that borrows from the workshop floor.",
+  "description": "Northern tailoring that borrows from the workshop floor. Every piece is produced in small runs. (Fictional sample brand.)",
+  "website": "https://example.com",
+  "instagram": "@hollowaycole",
+  "images": {
+    "cover": "cover.jpg",
+    "gallery": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ]
+  }
+}
